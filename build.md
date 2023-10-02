@@ -6,14 +6,28 @@ Music (arm64-v8a): 6.21.51
 Music (arm-v7a): 6.21.51  
 Twitter: 10.9.0-release.0  
 Twitch: 15.4.1  
+TikTok: 31.5.3  
 Reddit: 2023.38.0  
+Lightroom: 8.5.2  
+Messenger: 428.0.0.35.115  
+Spotify: 8.8.74.652  
+Citra: bed6a4f12  
+Backdrops: 4.52  
+WarnWetter: 4.2.2  
+Windyapp: 34.0.2  
+IconPackStudio: 2.2 build 016  
+Spotify-Lite: 1.9.0.46812  
+com.zombodroid.MemeGenerator: 4.6377  
+Facebook-Messenger-arm64: 428.0.0.35.115  
+Facebook-Messenger-arm: 428.0.0.35.115  
+DuoLingo: 5.122.3  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
-[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
+[REVANCED APK BUILDER](https://github.com/alsyundawy/revanced-apk-builder/)  
 
 Changelog:  
-CLI: inotia00/revanced-cli-3.1.2-all.jar  
+CLI: inotia00/revanced-cli-3.1.4-all.jar  
 Integrations: inotia00/revanced-integrations-0.117.15.apk  
 Patches: inotia00/revanced-patches-2.190.15.jar  
 [Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.190.15)
