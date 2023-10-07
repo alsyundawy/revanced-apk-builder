@@ -1,25 +1,27 @@
-YouTube: 18.39.40  
+YouTube: 18.37.36  
 Music-Extended (arm64-v8a): 6.22.51  
 Music-Extended (arm-v7a): 6.22.51  
-YouTube-Extended: 18.33.40  
+YouTube-Extended: 18.39.40  
 Music (arm64-v8a): 6.22.51  
 Music (arm-v7a): 6.22.51  
 Twitter: 10.10.0-release.0  
-Twitch: 16.4.2  
-TikTok: 31.5.3  
+Twitch: 16.1.0  
+TikTok: 30.8.4  
 Reddit: 2023.39.0  
-Lightroom: 9.0.0  
 Messenger: 429.0.0.37.111  
 Spotify: 8.8.74.652  
 Citra: bed6a4f12  
 Backdrops: 4.52  
 WarnWetter: 4.2.2  
+Windyapp: 34.0.2  
+IconPackStudio: 2.2 build 016  
 Spotify-Lite: 1.9.0.46812  
+com.zombodroid.MemeGenerator: 4.6377  
 Facebook-Messenger-arm64: 429.0.0.37.111  
 Facebook-Messenger-arm: 429.0.0.37.111  
 DuoLingo: 5.123.3  
 
-Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
+Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 
 [REVANCED APK BUILDER](https://github.com/alsyundawy/revanced-apk-builder/)  
 
