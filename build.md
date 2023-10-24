@@ -16,9 +16,11 @@ WarnWetter: 4.2.2
 Windyapp: 34.0.2  
 IconPackStudio: 2.2 build 016  
 Spotify-Lite: 1.9.0.49155  
+com.zombodroid.MemeGenerator: 4.6377  
 Facebook-Messenger-arm64: 431.1.0.35.116  
 Facebook-Messenger-arm: 431.1.0.35.116  
 DuoLingo: 5.125.4  
+Nova-Launcher: 7.0.57  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 
