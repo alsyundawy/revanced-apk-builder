@@ -13,8 +13,6 @@ Spotify: 8.8.80.599
 Citra: bed6a4f12  
 Backdrops: 4.52  
 WarnWetter: 4.2.2  
-Windyapp: 34.0.2  
-IconPackStudio: 2.2 build 016  
 Spotify-Lite: 1.9.0.49155  
 Facebook-Messenger-arm64: 433.0.0.32.117  
 Facebook-Messenger-arm: 433.0.0.32.117  
