@@ -4,10 +4,10 @@ Music-Extended (arm-v7a): 6.25.53
 YouTube-Extended: 18.40.34  
 Music (arm64-v8a): 6.26.50  
 Music (arm-v7a): 6.26.50  
-Twitter: 10.12.0-release.0  
+Twitter: 10.14.0-release.0  
 Twitch: 16.1.0  
 TikTok: 30.8.4  
-Reddit: 2023.41.1  
+Reddit: 2023.43.0  
 Messenger: 433.0.0.32.117  
 Spotify: 8.8.80.599  
 Citra: bed6a4f12  
