@@ -16,6 +16,7 @@ WarnWetter: 4.2.2
 Spotify-Lite: 1.9.0.49155  
 Facebook-Messenger-arm64: 433.0.0.32.117  
 Facebook-Messenger-arm: 433.0.0.32.117  
+CandyVPN: 3.1.0  
 DuoLingo: 5.127.4  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
