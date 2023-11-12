@@ -19,6 +19,7 @@ com.zombodroid.MemeGenerator: 4.6377
 Facebook-Messenger-arm64: 434.0.0.30.104  
 Facebook-Messenger-arm: 434.0.0.30.104  
 DuoLingo: 5.128.3  
+Nova-Launcher: 7.0.57  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 
