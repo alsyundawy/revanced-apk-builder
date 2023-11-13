@@ -13,13 +13,12 @@ Citra: bed6a4f12
 Backdrops: 4.52  
 WarnWetter: 4.2.2  
 Windyapp: 34.0.2  
-IconPackStudio: 2.2 build 016  
+IconPackStudio: 2.2 build 018  
 Spotify-Lite: 1.9.0.49155  
 com.zombodroid.MemeGenerator: 4.6377  
 Facebook-Messenger-arm64: 434.0.0.30.104  
 Facebook-Messenger-arm: 434.0.0.30.104  
 DuoLingo: 5.128.3  
-Nova-Launcher: 7.0.57  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 
