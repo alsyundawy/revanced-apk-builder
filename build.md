@@ -2,9 +2,9 @@ YouTube: 18.38.44
 Music-Extended (arm64-v8a): 6.27.53  
 Music-Extended (arm-v7a): 6.27.53  
 YouTube-Extended: 18.43.45  
-Music (arm64-v8a): 6.27.53  
-Music (arm-v7a): 6.27.53  
-Twitter: 10.15.0-release.0  
+Music (arm64-v8a): 6.28.52  
+Music (arm-v7a): 6.28.52  
+Twitter: 10.16.0-release.0  
 Twitch: 16.1.0  
 Reddit: 2023.44.0  
 Messenger: 434.0.0.30.104  
@@ -13,9 +13,7 @@ Citra: bed6a4f12
 Backdrops: 4.52  
 WarnWetter: 4.2.2  
 Windyapp: 34.0.2  
-IconPackStudio: 2.2 build 018  
 Spotify-Lite: 1.9.0.49155  
-com.zombodroid.MemeGenerator: 4.6377  
 Facebook-Messenger-arm64: 434.0.0.30.104  
 Facebook-Messenger-arm: 434.0.0.30.104  
 DuoLingo: 5.128.3  
