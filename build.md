@@ -8,16 +8,17 @@ Twitter: 10.16.0-release.0
 Twitch: 16.9.1  
 Reddit: 2023.45.0  
 Messenger: 435.0.0.32.108  
-Spotify: 8.8.88.397  
+Spotify: 8.8.90.893  
 Citra: bed6a4f12  
 Backdrops: 4.52  
 WarnWetter: 4.2.2  
 Windyapp: 34.0.2  
-IconPackStudio: 2.2 build 018  
+IconPackStudio: 2.2 build 023  
 Spotify-Lite: 1.9.0.49155  
 com.zombodroid.MemeGenerator: 4.6377  
 Facebook-Messenger-arm64: 435.0.0.32.108  
 Facebook-Messenger-arm: 435.0.0.32.108  
+CandyVPN: 3.1.0  
 DuoLingo: 5.129.5  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
