@@ -17,9 +17,7 @@ Windyapp: 34.0.2
 Spotify-Lite: 1.9.0.49155  
 Facebook-Messenger-arm64: 439.0.0.29.119  
 Facebook-Messenger-arm: 439.0.0.29.119  
-CandyVPN: 3.2.0  
 DuoLingo: 5.133.0  
-Nova-Launcher: 7.0.58  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 
