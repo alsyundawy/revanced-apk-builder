@@ -13,10 +13,9 @@ Spotify: 8.8.96.364
 Citra: bed6a4f12  
 Backdrops: 4.52  
 WarnWetter: 4.2.2  
-Windyapp: 34.0.2  
 Spotify-Lite: 1.9.0.49155  
-Facebook-Messenger-arm64: 439.0.0.29.119  
-Facebook-Messenger-arm: 439.0.0.29.119  
+Facebook-Messenger-arm64: 441.0.0.0.20  
+Facebook-Messenger-arm: 441.0.0.0.20  
 DuoLingo: 5.133.4  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
