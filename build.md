@@ -8,15 +8,17 @@ Twitter: 10.22.0-release.0
 Twitch: 16.9.1  
 Tiktok: 32.5.3  
 Reddit: 2023.50.1  
-Messenger: 439.0.0.29.119  
 Spotify: 8.8.96.364  
 Citra: bed6a4f12  
 Backdrops: 4.52  
 WarnWetter: 4.2.2  
+Windyapp: 34.0.2  
 Spotify-Lite: 1.9.0.49155  
+com.zombodroid.MemeGenerator: 4.6377  
+Instagram-arm64: 275.0.0.27.98  
 Facebook-Messenger-arm64: 441.0.0.0.20  
 Facebook-Messenger-arm: 441.0.0.0.20  
-DuoLingo: 5.133.4  
+DuoLingo: 5.134.2  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 
