@@ -9,10 +9,11 @@ Twitch: 16.9.1
 Tiktok: 32.5.3  
 Reddit: 2024.02.0  
 Messenger: 440.0.0.30.352  
-Spotify: 8.8.96.364  
+Spotify: 8.9.4.304  
 Citra: bed6a4f12  
 Backdrops: 4.52  
 WarnWetter: 4.2.2  
+Windyapp: 34.0.2  
 Spotify-Lite: 1.9.0.49155  
 Facebook-Messenger-arm64: 441.0.0.0.20  
 Facebook-Messenger-arm: 441.0.0.0.20  
