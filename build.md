@@ -11,11 +11,14 @@ Reddit: 2024.02.0
 Messenger: 440.0.0.30.352  
 Spotify: 8.9.4.304  
 Citra: bed6a4f12  
-Backdrops: 4.52  
 WarnWetter: 4.2.2  
+Windyapp: 34.0.2  
 Spotify-Lite: 1.9.0.49155  
+com.zombodroid.MemeGenerator: 4.6377  
+Instagram-arm64: 275.0.0.27.98  
 Facebook-Messenger-arm64: 441.0.0.0.20  
 Facebook-Messenger-arm: 441.0.0.0.20  
+CandyVPN: 3.2.1  
 DuoLingo: 5.134.3  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
