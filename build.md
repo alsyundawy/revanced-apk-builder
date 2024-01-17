@@ -1,9 +1,7 @@
 YouTube: 18.45.43  
-Music-Extended (arm64-v8a): 6.34.51  
-Music-Extended (arm-v7a): 6.34.51  
+Music-Extended (arm64-v8a): 6.34.52  
 YouTube-Extended: 18.45.43  
-Music (arm64-v8a): 6.34.51  
-Music (arm-v7a): 6.34.51  
+Music (arm64-v8a): 6.34.52  
 Twitter: 10.23.0-release.0  
 Twitch: 16.9.1  
 Tiktok: 32.5.3  
@@ -16,6 +14,8 @@ WarnWetter: 4.2.2
 Windyapp: 34.0.2  
 Spotify-Lite: 1.9.0.49155  
 com.zombodroid.MemeGenerator: 4.6377  
+Instagram-arm64: 275.0.0.27.98  
+Instagram-arm: 275.0.0.27.98  
 Facebook-Messenger-arm64: 441.0.0.0.20  
 Facebook-Messenger-arm: 441.0.0.0.20  
 DuoLingo: 5.134.3  
