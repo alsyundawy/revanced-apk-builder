@@ -8,6 +8,7 @@ Twitter: 10.24.0-release.0
 Twitch: 16.9.1  
 Tiktok: 32.5.3  
 Reddit: 2024.03.0  
+Messenger: 441.0.0.23.113  
 Citra: bed6a4f12  
 Backdrops: 4.52  
 WarnWetter: 4.2.2  
