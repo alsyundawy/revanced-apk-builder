@@ -8,11 +8,7 @@ Twitch: 16.9.1
 Tiktok: 32.5.3  
 Reddit: 2024.05.0  
 Messenger: 443.0.0.43.117  
-Citra: bed6a4f12  
 Backdrops: 4.52  
-WarnWetter: 4.2.2  
-com.zombodroid.MemeGenerator: 4.6377  
-Instagram-arm64: 275.0.0.27.98  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 
