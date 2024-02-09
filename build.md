@@ -1,16 +1,12 @@
-YouTube: 19.04.37  
-Music-Extended (arm64-v8a): 6.33.52  
-Music-Extended (arm-v7a): 6.33.52  
-YouTube-Extended: 19.02.39  
-Music (arm64-v8a): 6.37.50  
 Music (arm-v7a): 6.37.50  
-Twitter: 10.26.0-release.0  
+Music (arm64-v8a): 6.37.50  
 Twitch: 16.9.1  
 Tiktok: 32.5.3  
-Reddit: 2024.05.0  
-Messenger: 443.0.0.43.117  
-Citra: bed6a4f12  
+Reddit: 2024.06.0  
 Backdrops: 4.52  
+Citra: bed6a4f12  
+Messenger: 444.0.0.41.109  
+Twitter: 10.27.0-release.0  
 WarnWetter: 4.2.2  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
@@ -19,11 +15,9 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for
 
 Changelog:  
 CLI: inotia00/revanced-cli-4.4.1-all.jar  
-Integrations: inotia00/revanced-integrations-0.140.1.apk  
-Patches: inotia00/revanced-patches-2.220.1.jar  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.220.1)
+Integrations: ReVanced/revanced-integrations-1.3.2.apk  
+Patches: ReVanced/revanced-patches-4.2.0.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.2.0)  
 
-CLI: inotia00/revanced-cli-4.4.1-all.jar  
-Integrations: ReVanced/revanced-integrations-1.3.0.apk  
-Patches: ReVanced/revanced-patches-4.1.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.1.0)  
+Skipped:  
+Patches: inotia00/revanced-patches-2.220.1.jar    
