@@ -2,14 +2,17 @@ YouTube: 19.04.37
 Music-Extended (arm64-v8a): 6.33.52  
 Music-Extended (arm-v7a): 6.33.52  
 YouTube-Extended: 19.02.39  
-Music (arm64-v8a): 6.37.50  
-Music (arm-v7a): 6.37.50  
-Twitter: 10.27.0-release.0  
+Music (arm64-v8a): 6.39.50  
+Twitter: 10.28.0-release.0  
 Twitch: 16.9.1  
 Tiktok: 32.5.3  
-Reddit: 2024.06.0  
+Reddit: 2024.07.0  
 Messenger: 444.1.0.49.109  
+Citra: bed6a4f12  
 Backdrops: 4.52  
+WarnWetter: 4.2.2  
+com.zombodroid.MemeGenerator: 4.6377  
+Instagram-arm64: 275.0.0.27.98  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 
