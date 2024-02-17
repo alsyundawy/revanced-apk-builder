@@ -12,9 +12,6 @@ Messenger: 445.0.0.41.109
 Citra: bed6a4f12  
 Backdrops: 4.52  
 WarnWetter: 4.2.2  
-com.zombodroid.MemeGenerator: 4.6377  
-Instagram-arm64: 275.0.0.27.98  
-Instagram-arm: 275.0.0.27.98  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 
