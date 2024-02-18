@@ -8,10 +8,7 @@ Twitter: 10.28.0-release.0
 Twitch: 16.9.1  
 Tiktok: 32.5.3  
 Reddit: 2024.07.0  
-Messenger: 445.0.0.41.109  
-Citra: bed6a4f12  
 Backdrops: 4.52  
-WarnWetter: 4.2.2  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 
