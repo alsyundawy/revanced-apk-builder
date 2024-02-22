@@ -1,13 +1,12 @@
 YouTube: 19.04.37  
 Music-Extended (arm64-v8a): 6.33.52  
+Music-Extended (arm-v7a): 6.33.52  
 YouTube-Extended: 19.02.39  
-Music (arm64-v8a): 6.39.50  
-Music (arm-v7a): 6.39.50  
 Twitter: 10.28.0-release.0  
 Twitch: 16.9.1  
 Tiktok: 32.5.3  
 Reddit: 2024.07.0  
-Messenger: 445.0.0.41.109  
+Messenger: 446.0.0.44.109  
 Citra: bed6a4f12  
 Backdrops: 4.52  
 WarnWetter: 4.2.2  
